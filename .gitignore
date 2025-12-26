@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Testing
+.pytest_cache/
+
+# Project specific
+chroma_db/
+output/
